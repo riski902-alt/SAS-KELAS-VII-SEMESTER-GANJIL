@@ -1,0 +1,6 @@
+{
+  "name": "Informatika Fun — Kuis SAS Kelas VII",
+  "description": "Kuis interaktif latihan Sumatif Akhir Semester (SAS) Informatika Kelas VII SMP berisi 90 soal lengkap dengan koreksi otomatis, poin realtime, dan pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
